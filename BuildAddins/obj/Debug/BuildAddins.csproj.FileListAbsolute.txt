@@ -1,0 +1,26 @@
+D:\Tài liệu của tôi\Tài liệu môn học\Lập trình C#\BuildAddins\BuildAddins\bin\Debug\BuildAddins.dll
+D:\Tài liệu của tôi\Tài liệu môn học\Lập trình C#\BuildAddins\BuildAddins\bin\Debug\BuildAddins.pdb
+D:\Tài liệu của tôi\Tài liệu môn học\Lập trình C#\BuildAddins\BuildAddins\bin\Debug\BuildAddins.dll.manifest
+D:\Tài liệu của tôi\Tài liệu môn học\Lập trình C#\BuildAddins\BuildAddins\bin\Debug\BuildAddins.vsto
+D:\Tài liệu của tôi\Tài liệu môn học\Lập trình C#\BuildAddins\BuildAddins\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+D:\Tài liệu của tôi\Tài liệu môn học\Lập trình C#\BuildAddins\BuildAddins\obj\Debug\BuildAddins.csproj.AssemblyReference.cache
+D:\Tài liệu của tôi\Tài liệu môn học\Lập trình C#\BuildAddins\BuildAddins\obj\Debug\BuildAddins.Properties.Resources.resources
+D:\Tài liệu của tôi\Tài liệu môn học\Lập trình C#\BuildAddins\BuildAddins\obj\Debug\BuildAddins.Ribbon1.resources
+D:\Tài liệu của tôi\Tài liệu môn học\Lập trình C#\BuildAddins\BuildAddins\obj\Debug\BuildAddins.csproj.GenerateResource.cache
+D:\Tài liệu của tôi\Tài liệu môn học\Lập trình C#\BuildAddins\BuildAddins\obj\Debug\BuildAddins.csproj.CoreCompileInputs.cache
+D:\Tài liệu của tôi\Tài liệu môn học\Lập trình C#\BuildAddins\BuildAddins\obj\Debug\BuildAddins.csproj.CopyComplete
+D:\Tài liệu của tôi\Tài liệu môn học\Lập trình C#\BuildAddins\BuildAddins\obj\Debug\BuildAddins.dll
+D:\Tài liệu của tôi\Tài liệu môn học\Lập trình C#\BuildAddins\BuildAddins\obj\Debug\BuildAddins.pdb
+D:\Tài liệu môn học\Lập trình C#\BuildAddins\BuildAddins\bin\Debug\BuildAddins.dll
+D:\Tài liệu môn học\Lập trình C#\BuildAddins\BuildAddins\bin\Debug\BuildAddins.pdb
+D:\Tài liệu môn học\Lập trình C#\BuildAddins\BuildAddins\bin\Debug\BuildAddins.dll.manifest
+D:\Tài liệu môn học\Lập trình C#\BuildAddins\BuildAddins\bin\Debug\BuildAddins.vsto
+D:\Tài liệu môn học\Lập trình C#\BuildAddins\BuildAddins\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+D:\Tài liệu môn học\Lập trình C#\BuildAddins\BuildAddins\obj\Debug\BuildAddins.csproj.AssemblyReference.cache
+D:\Tài liệu môn học\Lập trình C#\BuildAddins\BuildAddins\obj\Debug\BuildAddins.Properties.Resources.resources
+D:\Tài liệu môn học\Lập trình C#\BuildAddins\BuildAddins\obj\Debug\BuildAddins.Ribbon1.resources
+D:\Tài liệu môn học\Lập trình C#\BuildAddins\BuildAddins\obj\Debug\BuildAddins.csproj.GenerateResource.cache
+D:\Tài liệu môn học\Lập trình C#\BuildAddins\BuildAddins\obj\Debug\BuildAddins.csproj.CoreCompileInputs.cache
+D:\Tài liệu môn học\Lập trình C#\BuildAddins\BuildAddins\obj\Debug\BuildAddins.csproj.CopyComplete
+D:\Tài liệu môn học\Lập trình C#\BuildAddins\BuildAddins\obj\Debug\BuildAddins.dll
+D:\Tài liệu môn học\Lập trình C#\BuildAddins\BuildAddins\obj\Debug\BuildAddins.pdb
